@@ -1,0 +1,33 @@
+.profile-form {
+	/*display: none;*/
+}
+
+.form-field {
+	margin: 10px;
+}
+
+button {
+	margin-top: 10px;	
+	margin-left: 10px;
+}
+
+.button {
+	margin-top: 10px;
+	margin-left: 10px;
+	background-color: Gray;
+	border: 1px solid LightGray;
+	width: 15%;
+	text-align: center;
+	cursor: default;
+}
+.profile-text {
+	margin-top: 20px;
+}
+
+.text-field > div {
+	display: inline-block;
+	margin-top: 10px;	
+	margin-left: 2px;
+}
+
+
